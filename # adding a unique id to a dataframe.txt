@@ -1,0 +1,2 @@
+# adding a unique id to a dataframe
+Considered_Datafile_df=Distinct_Datafile_df.withColumn('id',monotonically_increasing_id()+1)
