@@ -1,0 +1,5 @@
+oneLakePath = 'abfss://' + 'Workspace Name' + '@onelake.dfs.fabric.microsoft.com/' + 'Lakehouse Name' + '/Files/'  
+df = spark.read.format("csv").option("header", "true").load(oneLakePath + "test1.csv")  
+df.show() 
+
+writecsvdf = df.write.format("csv").save(oneLakePath + "out.csv")
