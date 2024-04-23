@@ -1,0 +1,4 @@
+﻿ConstituentID,FirstName,KeyName,MiddleName,MaidenName,Nickname,Birthdate,Gender,LookupID,Title1,Title2,Suffix1,Suffix2,DeceasedDate,IsDeceased,Status,InactiveReason,GivesAnonymously,SpouseID,Area,AreaManager,Patch,PatchManager,DateAdded,DateChanged,PrimaryEmail,PrimaryPostcode,Name,Delete
+0126f49e-4059-4f62-b401-00ac78293ebd,Rylee , Bandini,,,,01/01/1982,Female,8-23111968,Mrs,,,,,No,Active,,No,,,,Buckinghamshire & Oxfordshire,,2022-10-20 09:39:01,2022-10-23 09:39:01,yory@leeband.gov.uk,BL1 4DN,Rylee Bandini,No
+007bc6fb-1034-475e-9cd0-0055ccd99966,Aaron , McKenna,,,,22/03/1981,Female,8-18864825,Mrs,,,,,No,Active,,No,,,,,,2022-10-20 09:39:01,2022-10-23 09:39:01,,NN4 5DQ,Aaron McKenna,Yes
+8888f49e-4059-4f62-b401-00ac78293ebd,BillyBob,Thorky,,,,01/01/1982,Male,9-000000,Dr,,,,,No,,,,,,,,,2022-10-20 09:39:01,2022-10-23 09:39:01,,CB6 5TY,BillyBob Thorky,No

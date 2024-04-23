@@ -1,0 +1,4 @@
+﻿ConstituentID,FirstName,KeyName,MiddleName,MaidenName,Nickname,Birthdate,Gender,LookupID,Title1,Title2,Suffix1,Suffix2,DeceasedDate,IsDeceased,Status,InactiveReason,GivesAnonymously,SpouseID,Area,AreaManager,Patch,PatchManager,DateAdded,DateChanged,PrimaryEmail,PrimaryPostcode,Name,Delete
+00985d29-24a2-4710-8021-00201b4c518c,Adriel , Wilson,,,,02/10/1978,Female,8-19456944,Dr,,,,,No,Active,,No,,,,,,2022-10-21 09:39:01,2022-10-22 09:39:01,,NR9 4HT,Adriel Wilson,No
+1234a4ea-7126-4064-8aa2-00607be1cfdb,Rolands,Gaspar,,,,22/10/1978,Female,8-12987664,Mrs,,,,,No,Active,,No,,,,,,2022-10-21 09:39:01,2022-10-22 09:39:01,,IG3 9TA,Rolands Gaspar,No
+00b4a5af-c37b-4fe4-9dbb-005c4a1894f7,Beau , White,,,,22/10/1979,Male,8-18761139,Mr,,,,,No,Active,,No,,Northern Ireland and Wales,,,,2022-10-21 09:39:01,2022-10-22 09:39:01,BeauTheMan@manomano.com,L23 0TE,Beau White,No

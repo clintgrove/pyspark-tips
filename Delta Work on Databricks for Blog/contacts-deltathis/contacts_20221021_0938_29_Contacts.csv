@@ -1,0 +1,4 @@
+﻿ConstituentID,FirstName,KeyName,MiddleName,MaidenName,Nickname,Birthdate,Gender,LookupID,Title1,Title2,Suffix1,Suffix2,DeceasedDate,IsDeceased,Status,InactiveReason,GivesAnonymously,SpouseID,Area,AreaManager,Patch,PatchManager,DateAdded,DateChanged,PrimaryEmail,PrimaryPostcode,Name,Delete
+007dcfaf-c408-4542-87ab-00b1100b9372,Jacob , Adams,,,,,Male,8-20785661,Mr,,,,,No,Active,,No,,,,,,2022-10-20 09:39:01,2022-10-21 09:39:01,4051ttt966@sky.com,L31 1GB,Jacob Adams,No
+01223416-b35a-41e6-a133-00dc6c505520,Abraham , Ashley,,,,,Male,8-22671208,Mr,,,,,No,Active,,No,,,,,,2022-10-20 09:39:01,2022-10-21 09:39:01,1020FD14A0@yahoo.co.uk,BN17 7GP,Abraham Ashley,Yes
+9cde21a2-21f0-411c-b0af-000006894300,Eliza , Hilton,,,,,Female,8-22232039,Mrs,,,,,No,Active,,No,,,,,,2022-10-20 09:39:01,2022-10-21 09:39:01,,CV12 8RR,Eliza Hilton,Yes
