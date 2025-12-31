@@ -1,0 +1,8 @@
+CREATE TABLE default.contacts
+USING DELTA
+AS
+SELECT * FROM read_files(
+  '/Volumes/dbxwithclassic/default/filescsv/contacts_20221018_0938_29_Contacts.csv',
+  format => 'csv',
+  header => true,
+  mode => 'FAILFAST');
