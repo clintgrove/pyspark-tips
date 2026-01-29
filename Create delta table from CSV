@@ -4,5 +4,6 @@ AS
 SELECT * FROM read_files(
   '/Volumes/dbxwithclassic/default/filescsv/contacts_20221018_0938_29_Contacts.csv',
   format => 'csv',
+  sep => ',',
   header => true,
   mode => 'FAILFAST');
